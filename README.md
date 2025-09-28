@@ -47,7 +47,7 @@
 ---
 
 ## 🌐 Find Me
-- 💼 [LinkedIn](www.linkedin.com/in/leandro-collier-3b4971a8) *(replace with your profile)*  
+- 💼 [LinkedIn](www.linkedin.com/in/leandro-collier-3b4971a8)
 - 🎤 [GDG Mons](https://www.gdg-mons.com/)  
 
 ---
