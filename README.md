@@ -18,7 +18,7 @@
 ## 📢 Community Involvement
 - 🇧🇪 **Team Lead of Google Developer Group (GDG) Mons** since 2021  
 - Organizing events to promote new technologies and share knowledge  
-- Notably behind [DevFest Belgium](https://www.gdg-mons.com/)  
+- Notably behind [DevFest Belgium](https://devfest-belgium.be/) 
 - Roles within the 8-member team: **Team Lead, Speaker Coordinator, Recruiter, Financial Manager**  
 
 ---
@@ -48,8 +48,7 @@
 
 ## 🌐 Find Me
 - 💼 [LinkedIn](www.linkedin.com/in/leandro-collier-3b4971a8)
-- 🎤 [GDG Mons](https://www.gdg-mons.com/)  
-
+- 🎤 [GDG Mons](https://gdg-mons.com/team)
 ---
 
 ⚠️ Please note: the public repositories on my GitHub are **not fully representative of my professional work**, as many projects are private due to confidentiality reasons.
