@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Leandro
-- 🎓 ** Engineer** graduated from the **Faculty of Engineering at the University of Mons** with a master's degree in **computer science**, specialising in **Artificial Intelligence and Decision Support**. 
+- 🎓 **Engineer** graduated from the **Faculty of Engineering at the University of Mons** with a master's degree in **computer science**, specialising in **Artificial Intelligence and Decision Support**. 
 - 💼 **Research Engineer in Data Science** since 2022 at at CETIC, an applied research center from Charleroi.
 
 ---
